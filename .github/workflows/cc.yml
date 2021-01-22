@@ -12,8 +12,8 @@ jobs:
         with:
           feed_list: "https://ayazhafiz.com/feed-rss2.xml"
           max_post_count: 3
-          date_format: paddedShortDate
-          template: "[$title]($url) ($date)"
+          date_format: "mm/dd/yyyy"
+          template: "$newline- [$title]($url) ($date)"
           commit_message: update cc
           committer_username: cc
           committer_email: cc@example.cc
