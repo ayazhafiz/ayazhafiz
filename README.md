@@ -6,4 +6,7 @@ Hi! I am an engineer, primarily interested in operations and infrastructure soft
 
 The best way to contact me is at ayaz.hafiz.1@gmail.com.
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 </div>
